@@ -298,7 +298,7 @@ grep -o 'HAMAMOOZ{[^}]*}' env_layer/app/.env
 <br>
 <br>
 
-## VM escape via nested Docker socket
+## VM escape
 
 ### Vulnerability: Container/VM Escape
 
